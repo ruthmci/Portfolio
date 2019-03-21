@@ -1,0 +1,71 @@
+@import url("contact.css");
+@import url("skills.css");
+@import url("about-me.css");
+@import url("responsive.css");
+
+* {
+	margin: 0px;
+  }
+  /* #c7b1b4 */
+body { 
+	height: 100%;
+	font-family: Tahoma,Verdana,Segoe,sans-serif; 
+	background-image: url("../images/image.jpg");
+	color: #3b3b3b;
+  background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center right;
+}
+
+/* #8e8e8c */
+.grid {
+	width: 100%;
+	height: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+	grid-template-rows: 150px 600px 150px;
+}
+
+
+.navbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	grid-column: 2 / 3;
+	grid-row: 1 / 2;
+}
+
+.logo {
+	/* width: 10px;
+	height: 10px; */
+	display: flex;
+	align-items: left;
+	padding: 20px;
+}
+
+.title {
+	display: grid;
+	grid-column: 1 / 2;
+	grid-row: 2 / 3;
+	align-content: center;
+	justify-content: right;
+	border-radius: 4px;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: #3b3b3b;
+	/* 3b3b3b */
+}
+.navbar a:hover {
+	transform: scale(1.1);
+}
+
+.footer {
+	grid-column: 1 / 2;
+	grid-row: 3 / 4;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-evenly;
+}

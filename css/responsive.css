@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    body {
+        /* background-color: lightblue; */
+      background-image: url("../images/responsiveH.jpg");
+    }
+    .navbar {
+        display: none;
+    }
+    /* div {
+        width: 35px;
+        height: 5px;
+        background-color: black;
+        margin: 6px 0;
+      } */
+    }

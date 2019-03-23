@@ -15,3 +15,9 @@ justify-self: center;
 	height: 120%;
 	text-align: center;
 }
+@media only screen and (max-width: 600px) {
+.skills-container {
+width: 50%;
+height: 80%;
+text-align: center;	
+justify-self: center;

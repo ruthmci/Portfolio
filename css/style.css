@@ -1,3 +1,4 @@
+@import url("navbar.css");
 @import url("contact.css");
 @import url("skills.css");
 @import url("about-me.css");
@@ -24,22 +25,6 @@ body {
   display: grid;
   grid-template-columns: 50% 50%;
 	grid-template-rows: 150px 600px 150px;
-}
-
-.navbar {
-	display: flex;
-	align-items: center;
-	justify-content: space-around;
-	grid-column: 2 / 3;
-	grid-row: 1 / 2;
-}
-.navbar a {
-	text-decoration: none;
-	color: #ffffff;
-	font-size: 20px;
-}
-.navbar a:hover {
-	transform: scale(1.1);
 }
 
 .menu-container {

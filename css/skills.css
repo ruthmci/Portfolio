@@ -1,23 +1,16 @@
-
 .skills-container {
-grid-column: 1 / 2;
-grid-row: 2 / 3;
-width: 40%;
-height: 60%;
-justify-self: center;
-} 
-.text-container {
-	background-color: #c7b1b4;
-	padding: 10px 30px 10px 30px;
-	/* opacity: 0.5; */
-	border-radius: 4px;
-	width: 110%;
-	height: 120%;
-	text-align: center;
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    width: 60%;
+    height: 60%;
+    justify-self: center;
 }
+
 @media only screen and (max-width: 600px) {
 .skills-container {
-width: 50%;
-height: 80%;
-text-align: center;	
-justify-self: center;
+    width: 50%;
+    height: 80%;
+    text-align: center;	
+    justify-self: center;
+    }
+}

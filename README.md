@@ -1,7 +1,9 @@
 # Portfolio
-A link to Portfolio website: www.ruthmcilwaine.co
+Portfolio Website: www.ruthmcilwaine.co
 
-A link to GitHub repository: https://github.com/ruthmci/Portfolio
+GitHub Repository: https://github.com/ruthmci/Portfolio
+
+Github Pages: https://github.com/ruthmci/ruthmci.github.io
 
 Description:
 
@@ -26,9 +28,12 @@ Planning:
 
 Timeline
 ![Timeline](/images/Timeline.pdf "Timeline")
+
 Trello
 ![Trello Screenshot 1](/images/Trello-1.png "Trello Screenshot 1")
+
 ![Trello Screenshot 2](/images/Trello-2.png "Trello Screenshot 2")
+
 ![Trello Screenshot 3](/images/Trello-3.png "Trello Screenshot 3")
 
 

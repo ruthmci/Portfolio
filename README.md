@@ -13,28 +13,28 @@ The visitor can navigate my site and obtain the information they are seeking eas
 on the screen and I have included icons at the footer of the page which are also links to my github, codepen, linkedin and 
 my contact page, I used font awesome for all the icons. My logo also functions as a link to my homepage.
 The client-side tech stack includes HTML, CSS, font awesome created with VSCode. I used github to host my website and also 
-used ventraip.com.au, to redirect to my domain name www.ruthmcilwaine.co.
+used ventraip.com.au, to redirect to my domain name ruthmcilwaine.co.
 
 Design Process:
 
 Mood Board: https://www.pinterest.com.au/ruthmcilwaine/web-layout-design/
-![Mood Board Screenshot](/images/Mood-Board-Pinterest.png "Mood Board")
+![Mood Board Screenshot](/docs/Mood-Board-Pinterest.png "Mood Board")
 
 Wireframe and Logo: https://www.figma.com/file/Vvitn9WRrXujJoGNienDUL1E/Portfolio?node-id=0%3A1
-![Wireframe and Logo Screenshot](/images/Figma-Wireframe-Logo.png "Wireframe and Logo")
+![Wireframe and Logo Screenshot](/docs/Figma-Wireframe-Logo.png "Wireframe and Logo")
 
 
 Planning:
 
 Timeline
-![Timeline](/images/Timeline.pdf "Timeline")
+![Timeline](/docs/Timeline.pdf "Timeline")
 
 Trello
-![Trello Screenshot 1](/images/Trello-1.png "Trello Screenshot 1")
+![Trello Screenshot 1](/docs/Trello-1.png "Trello Screenshot 1")
 
-![Trello Screenshot 2](/images/Trello-2.png "Trello Screenshot 2")
+![Trello Screenshot 2](/docs/Trello-2.png "Trello Screenshot 2")
 
-![Trello Screenshot 3](/images/Trello-3.png "Trello Screenshot 3")
+![Trello Screenshot 3](/docs/Trello-3.png "Trello Screenshot 3")
 
 
 

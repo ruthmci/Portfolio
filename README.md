@@ -1,7 +1,9 @@
 # Portfolio
-A link to Portfolio website: www.ruthmcilwaine.co
+Portfolio Website: www.ruthmcilwaine.co
 
-A link to GitHub repository: https://github.com/ruthmci/Portfolio
+GitHub Repository: https://github.com/ruthmci/Portfolio
+
+Github Pages: https://github.com/ruthmci/ruthmci.github.io
 
 Description:
 

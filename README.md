@@ -1,8 +1,10 @@
 # Portfolio
 A link to Portfolio website: www.ruthmcilwaine.co
+
 A link to GitHub repository: https://github.com/ruthmci/Portfolio
 
 Description:
+
 The Purpose of my website is to showcase my work and my personal style at this point in my career to prospective clients or 
 employer, both of which are my target audience.
 The visitor can navigate my site and obtain the information they are seeking easily. The menu bar is very clearly displayed
@@ -12,6 +14,7 @@ The client-side tech stack includes HTML, CSS, font awesome created with VSCode.
 used ventraip.com.au, to redirect to my domain name www.ruthmcilwaine.co.
 
 Design Process:
+
 Mood Board: https://www.pinterest.com.au/ruthmcilwaine/web-layout-design/
 ![Mood Board Screenshot](/images/Mood-Board-Pinterest.png "Mood Board")
 Wireframe and Logo: https://www.figma.com/file/Vvitn9WRrXujJoGNienDUL1E/Portfolio?node-id=0%3A1
@@ -19,11 +22,13 @@ Wireframe and Logo: https://www.figma.com/file/Vvitn9WRrXujJoGNienDUL1E/Portfoli
 
 
 Planning:
-Timeline pdf
-Trello Screenshots
 
-
-
+Timeline
+![Timeline](/images/Timeline.pdf "Timeline")
+Trello
+![Trello Screenshot 1](/images/Trello 1.png "Trello Screenshot 1")
+![Trello Screenshot 2](/images/Trello 2.png "Trello Screenshot 2")
+![Trello Screenshot 3](/images/Trello 3.png "Trello Screenshot 3")
 
 
 

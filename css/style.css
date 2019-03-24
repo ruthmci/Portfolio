@@ -13,7 +13,6 @@ body {
 	height: 100%;
 	font-family: Tahoma,Verdana,Segoe,sans-serif; 
 	background-image: url("../images/image.jpg");
-	color: #3b3b3b;
   background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -61,10 +60,10 @@ body {
 
 .RM-title {
 	position: absolute;
-	max-width: 40%;
+	max-width: 30%;
 	height: auto;
-	top: 20%;
-	left: 10%;
+	top: 25%;
+	left: 15%;
 }
 
 .link {
@@ -101,8 +100,7 @@ body {
 	position: absolute;
 	max-width: 60%;
 	height: auto;
-	top: 20%;
-	left: 10%;
-	}
+	padding: 5%;
+}
 }
 		

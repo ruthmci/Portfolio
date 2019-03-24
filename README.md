@@ -26,9 +26,12 @@ Planning:
 
 Timeline
 ![Timeline](/images/Timeline.pdf "Timeline")
+
 Trello
 ![Trello Screenshot 1](/images/Trello-1.png "Trello Screenshot 1")
+
 ![Trello Screenshot 2](/images/Trello-2.png "Trello Screenshot 2")
+
 ![Trello Screenshot 3](/images/Trello-3.png "Trello Screenshot 3")
 
 
